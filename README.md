@@ -1,2 +1,3 @@
 # shell_script
-share usage shell scripts
+share usage shell scripts!
+first merge!
