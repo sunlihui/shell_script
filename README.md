@@ -1,3 +1,2 @@
 # shell_script
-share usage shell scripts!
-first merge!
+分享工作中常用的shell script
