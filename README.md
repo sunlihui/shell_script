@@ -1,2 +1,2 @@
 # shell_script
-分享工作中常用的shell script
+宸ヤ綔甯哥敤shell鑴氭鍒嗕韩
