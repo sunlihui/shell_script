@@ -1,2 +1,2 @@
 # shell_script
-share usage shell scripts
+工作常用shell脚本分享
