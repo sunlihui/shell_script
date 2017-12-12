@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #define parameter
-file_save=tuhu.txt
-ip=172.16.20
+file_save=1.txt
+ip=*.*.*.*
 ip_range="2 254"
 >$file_save
 
