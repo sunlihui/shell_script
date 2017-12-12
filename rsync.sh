@@ -1,13 +1,13 @@
 #!/bin/bash
 
-#echo qk365 >/etc/rsyncd.passwords &&chmod 600 /etc/rsyncd.passwords
+#echo password >/etc/rsyncd.passwords &&chmod 600 /etc/rsyncd.passwords
 #cat >>/var/spool/cron/root <<eof
 # backup data
 #0 1 * * *  /root/shells/rsync.sh >/tmp/true.txt 2>/tmp/error.txt
 #eof
 
-PATH1=/qingke/tomcats
-PATH2=/qingke/webapps
+PATH1=/*/tomcats
+PATH2=/*/webapps
 
 #1 Backup tomcats 
 for i in `ls $PATH1`
