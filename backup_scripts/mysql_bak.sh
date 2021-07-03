@@ -7,7 +7,7 @@ BASE_DIR='/backup/mysql'
 BACKUP_DIR=${BASE_DIR}/${mydate}
 #备份数据库信息
 mysqluser='root'
-mysqlpasswd='root'
+mysqlpasswd=xxxxx
 mysql_dump='/mysql/bin/mysqldump'
 db_name=zabbix
 
